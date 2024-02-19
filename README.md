@@ -19,14 +19,6 @@
 ![RedShift](https://img.shields.io/badge/RedShift-FF0000?style=for-the-badge&logo=amazon&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Projects
-- [E-Commerce Platform](link_to_ecom_repo)
-- [Social Media App](link_to_social_media_repo)
-- [Blog Application](link_to_blog_app_repo)
-- [Online Shop Application](link_to_online_shop_repo)
-- [CMS (Content Management System)](link_to_cms_repo)
-- [CRM (Customer Relationship Management)](link_to_crm_repo)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWithVP&show_icons=true&count_private=true&theme=radical)
 
@@ -35,13 +27,12 @@
 - Social Media
 - Content Management
 - Customer Relationship Management
-
-## Open Source Contributions
-- 🌟 Starred Repositories: [Repository 1](link_to_repo_1), [Repository 2](link_to_repo_2)
-
+- 
 ## Education & Work Experience
-- BSC-IT, MSC-IT
-- On Paper: 3+ Years, Else: 5+ Years of Experience
+- **BSC-IT, MSC-IT**
+- **Professional Experience:**
+  - Job: Over 3+ years
+  - Real-world: Over 5+ years of hands-on experience
 
 ## Looking for Opportunities
 - Actively seeking open source projects to contribute to.
