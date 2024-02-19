@@ -20,8 +20,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## AWS Expertise
-## AWS Expertise
-
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/CloudFormation-0052CC?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation">
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3">
