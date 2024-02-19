@@ -19,6 +19,19 @@
 ![RedShift](https://img.shields.io/badge/RedShift-FF0000?style=for-the-badge&logo=amazon&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## AWS Expertise
+<div style="display: flex; justify-content: center;">
+  <img src="https://img.shields.io/badge/CloudFormation-0052CC?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation">
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3">
+  <img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2">
+  <img src="https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="RDS">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazon-lambda&logoColor=white" alt="Lambda">
+  <img src="https://img.shields.io/badge/ECR-0093DD?style=for-the-badge&logo=amazon-ecr&logoColor=white" alt="ECR">
+  <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white" alt="SQS">
+  <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white" alt="SNS">
+</div>
+
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWithVP&show_icons=true&count_private=true&theme=radical)
 
