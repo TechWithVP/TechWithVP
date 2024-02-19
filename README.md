@@ -20,6 +20,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## AWS Expertise
+## AWS Expertise
+
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/CloudFormation-0052CC?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation">
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3">
@@ -29,8 +31,15 @@
   <img src="https://img.shields.io/badge/ECR-0093DD?style=for-the-badge&logo=amazon-ecr&logoColor=white" alt="ECR">
   <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white" alt="SQS">
   <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white" alt="SNS">
+  <img src="https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch">
+  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazon-vpc&logoColor=white" alt="VPC">
+  <img src="https://img.shields.io/badge/SecretManager-569A31?style=for-the-badge&logo=amazon-secrets-manager&logoColor=white" alt="Secret Manager">
+  <img src="https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazon-eventbridge&logoColor=white" alt="EventBridge">
+  <img src="https://img.shields.io/badge/IAM-0052CC?style=for-the-badge&logo=amazon-iam&logoColor=white" alt="IAM">
+  <img src="https://img.shields.io/badge/CertificateManager-0093DD?style=for-the-badge&logo=amazon-acm&logoColor=white" alt="Certificate Manager">
+  <img src="https://img.shields.io/badge/CloudFront-569A31?style=for-the-badge&logo=amazon-cloudfront&logoColor=white" alt="CloudFront">
+  <img src="https://img.shields.io/badge/RedShift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="RedShift">
 </div>
-
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWithVP&show_icons=true&count_private=true&theme=radical)
