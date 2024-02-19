@@ -1,4 +1,4 @@
-# Hello World!, From Vivek Panchal
+# Hello World! From Vivek Panchal
 
 ## About Me
 - 👨‍💻 Senior Python Developer
