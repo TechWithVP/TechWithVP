@@ -28,7 +28,7 @@
 - [CRM (Customer Relationship Management)](link_to_crm_repo)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWithVP&show_icons=true&count_private=true&theme=radical)
 
 ## Skills
 - E-Commerce
