@@ -1,10 +1,10 @@
 # Hello World! From Vivek Panchal
 
 ## About Me
-- 👨‍💻 Senior Python Developer
+- 👨‍💻 Senior Python Developer, System Designer, and DevOps Engineer
 - 🎓 BSC-IT, MSC-IT
-- 🌐 [LinkedIn](your_linkedin_profile_url)
-- 📧 [Email](your_email@example.com)
+- 🌐 [LinkedIn](https://in.linkedin.com/in/vivekpanchal0910)
+- 📧 [Email](vivekdp0910@gmail.com)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
